@@ -40,7 +40,6 @@ header{
     position: relative;
     transition: all 400ms ease;
     transform-style: preserve-3d;
-    background-color: #ccc;
 }
 
 .face {
@@ -69,5 +68,4 @@ header{
 
 .disabled-card {
     filter: saturate(0);
-    opacity: 0.5;
 }
